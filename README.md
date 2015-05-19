@@ -22,4 +22,11 @@
   <li>
     Append any Facebook buttons you'd like to add to your page to the fb-root class
   </li>
+  <li>
+    <a href="https://developers.facebook.com/apps">Create a new Facebook App to get your App ID</a>
+  </li>
+  <li>
+
+  </li>
+
 </ul>
